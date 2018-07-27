@@ -1,2 +1,2 @@
-# DistintFIlterDatatable
-Multi column filtering in Datatable
+# DistintFIlterDatatable 
+Multi column filtering in Datatable from Client Side
